@@ -1,0 +1,14 @@
+name: hello_dart_app
+description: A simple repository with examples about Dart development.
+version: 1.0.0
+repository: https://github.com/weincoder?tab=repositories
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
